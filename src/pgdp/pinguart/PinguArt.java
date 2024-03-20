@@ -52,4 +52,5 @@ public class PinguArt {
                 +result.get(7) + "|\n"
                 +"+----------------+");
     }
+
 }
